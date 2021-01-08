@@ -10,3 +10,4 @@ test_script:
   - node --version
   - npm --version
 
+build: off
